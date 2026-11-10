@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+outputs/
+logs/
+visualizations/
+data/
+HAM10000/
+*.pth
+.venv/
+venvs/
